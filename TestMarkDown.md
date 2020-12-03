@@ -5,9 +5,11 @@
 ```python
 import numpy
 ```
-
-<font color='red'>red</font>
-
+  
+  
+<center><font color='red'>red</font></center>
+  
+  
 ![1](https://latex.codecogs.com/svg.latex?y_1=x^2+b)
 
 > s
